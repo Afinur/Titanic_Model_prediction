@@ -28,12 +28,14 @@ Predicting the survival of passengers aboard the Titanic using machine learning 
 
   XGBoost – Gradient boosting for high performance
 
-# Model Performance
- Model	Accuracy
-  |Logistic Regression	80.4%|
-  |Decision Tree	      78.2%|
-  |Random Forest	      81.0%|
-  |K-Nearest Neighbors 81.0%|
-  |XGBoost	            82.1%|
+## 📊 Model Performance
+
+| Model                     | Accuracy |
+|---------------------------|---------|
+| Logistic Regression       | 80.4%   |
+| Decision Tree             | 78.2%   |
+| Random Forest             | 81.0%   |
+| K-Nearest Neighbors (KNN) | 81.0%   |
+| **XGBoost**               | **82.1%** |
 
 ✅ Best Model: XGBoost achieved the highest accuracy of 82.1%.
