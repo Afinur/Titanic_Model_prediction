@@ -1,24 +1,24 @@
-# Titanic Survival Prediction 🚢
+#Titanic Survival Prediction 🚢
 
 Predicting the survival of passengers aboard the Titanic using machine learning based on factors like age, gender, and passenger class.
 
-📋 Project Overview
+# Project Overview
 
-This project aims to build a predictive model for Titanic passenger survival. The workflow includes:
+ This project aims to build a predictive model for Titanic passenger survival. The workflow includes:
 
-  Data Cleaning
+ 1️⃣ Data Cleaning
 
-  Handling missing values in features like Age and Fare using mean imputation.
+   Handle missing values in features like Age and Fare using mean imputation.
 
-  Feature Engineering
+ 2️⃣ Feature Engineering
 
-  Converting categorical variables (Sex, Embarked) into numerical format with encoding techniques.
+   Convert categorical variables (Sex, Embarked) into numerical format using encoding techniques.
 
-  Model Training & Evaluation
+ 3️⃣ Model Training & Evaluation
 
-  Comparing multiple machine learning algorithms to find the best-performing model.
+   Compare multiple machine learning algorithms to find the best-performing model.
 
-🛠 Technologies Used
+#Technologies Used
 
   Python
 
@@ -28,12 +28,12 @@ This project aims to build a predictive model for Titanic passenger survival. Th
 
   XGBoost – Gradient boosting for high performance
 
-📊 Model Performance
+#Model Performance
  Model	Accuracy
   Logistic Regression	80.4%
-  Decision Tree  	78.2%
-  Random Forest	        81.0%
-  K-Nearest Neighbors 	81.0%
-  XGBoost	        82.1%
+  Decision Tree	78.2%
+  Random Forest	81.0%
+  K-Nearest Neighbors (KNN)	81.0%
+  XGBoost	82.1%
 
 ✅ Best Model: XGBoost achieved the highest accuracy of 82.1%.
