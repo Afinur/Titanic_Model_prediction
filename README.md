@@ -1,4 +1,4 @@
-#Titanic Survival Prediction 🚢
+# Titanic Survival Prediction 🚢
 
 Predicting the survival of passengers aboard the Titanic using machine learning based on factors like age, gender, and passenger class.
 
@@ -18,7 +18,7 @@ Predicting the survival of passengers aboard the Titanic using machine learning 
 
    Compare multiple machine learning algorithms to find the best-performing model.
 
-#Technologies Used
+# Technologies Used
 
   Python
 
@@ -28,7 +28,7 @@ Predicting the survival of passengers aboard the Titanic using machine learning 
 
   XGBoost – Gradient boosting for high performance
 
-#Model Performance
+# Model Performance
  Model	Accuracy
   Logistic Regression	80.4%
   Decision Tree	78.2%
